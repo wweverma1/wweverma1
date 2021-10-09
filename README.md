@@ -1,6 +1,7 @@
 Hi there 👋
-I'm Aditya Verma, a third year UG student at IIT Kharagpur.<br><br>
-🔭 I’m currently working on Full Stack Development and Competitive Programming👨‍ 💻<br>
+I'm Aditya Verma, a third year UG student at IIT Kharagpur.<br>
+I'm interested in Full Stack Development and Competitive Programming👨‍ 💻<br><br>
+🔭 I’m currently working on [TFS-Frontend](https://github.com/wweverma1/tfs-frontend)<br>
 💬 Ask me about MERN Stack, Python, Flask, C++, C and SQL<br>
 📫 How to reach me: wweverma1@gmail.com<br>
 ⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
