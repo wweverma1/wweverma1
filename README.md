@@ -1,6 +1,6 @@
 Hi there 👋
-<img align='right' src='https://user-images.githubusercontent.com/51537596/138762574-a842dae0-4b76-4f02-9b6c-0ba2a52ca5b7.gif' width='200'>
-I'm Aditya Verma, a third year UG student at IIT Kharagpur.<br>
+<img align='right' src='https://user-images.githubusercontent.com/51537596/138764825-6f31224c-ca81-4f4f-a18d-df6519d2073b.gif' width='150'>
+I'm **Aditya Verma**, a third year UG student at **IIT Kharagpur**.<br>
 I'm interested in Full Stack Development and Competitive Programming👨‍ 💻<br><br>
 🔭 I’m currently working on [TFS-Frontend](https://github.com/wweverma1/tfs-frontend)<br>
 💬 Ask me about MERN Stack, Python, Flask, C++, C and SQL<br>
