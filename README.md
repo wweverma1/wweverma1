@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/51537596/138714923-69a5eb6b-e085-45ef-964a-e4ba5bf077fb.gif' width='200'>
 Hi there 👋
 I'm Aditya Verma, a third year UG student at IIT Kharagpur.<br>
 I'm interested in Full Stack Development and Competitive Programming👨‍ 💻<br><br>
