@@ -11,7 +11,7 @@ I'm interested in Full Stack Development and Competitive Programming👨‍ 💻
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
-Get your Codeforces Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 <!--
 **wweverma1/wweverma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
