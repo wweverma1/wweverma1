@@ -6,8 +6,6 @@
 I'm a third year UG student at **IIT Kharagpur**, interested in full stack development, open source contribution and competitive programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
-<img align="right" src="https://i.kym-cdn.com/entries/icons/original/000/005/635/63e51038_f4b0_682c.jpg" width='300'>
-<br />
 🔭 I’m currently working on [Realtime Chat App using Socket.IO](https://github.com/wweverma1/socketio-chat)
 <br />
 💬 Ask me about React, Flask, Express, PHP, Python, C++, C and SQL
@@ -15,7 +13,6 @@ I'm a third year UG student at **IIT Kharagpur**, interested in full stack devel
 📫 How to reach me: wweverma1@gmail.com
 <br />
 ⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
-<br />
 <br />
 ### My Codeforces Stats
 
