@@ -1,13 +1,22 @@
-Hi there 👋
-<img align='right' src='https://user-images.githubusercontent.com/51537596/138762574-a842dae0-4b76-4f02-9b6c-0ba2a52ca5b7.gif' width='150'>
-I'm **Aditya Verma**, a third year UG student at **IIT Kharagpur**.<br>
-I'm interested in Full Stack Development and Competitive Programming👨‍ 💻<br><br>
-🔭 I’m currently working on [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)<br>
-💬 Ask me about MERN Stack, Flask, Python, C++, C and SQL<br>
-📫 How to reach me: wweverma1@gmail.com<br>
-⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
+<h1 align="center">
+  Hi there, I'm <a href="https://wweverma1.github.io/" target="_blank">Aditya Verma</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
-## My Codeforces Stats
+I'm a third year UG student at **IIT Kharagpur**, interested in full stack development, open source contribution and competitive programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br />
+<br />
+<img align="right" src="https://i.kym-cdn.com/entries/icons/original/000/005/635/63e51038_f4b0_682c.jpg">
+🔭 I’m currently working on [Realtime Chat App using Socket.IO](https://github.com/wweverma1/socketio-chat)
+<br />
+💬 Ask me about React, Flask, Express, PHP, Python, C++, C and SQL
+<br />
+📫 How to reach me: wweverma1@gmail.com
+<br />
+⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
+<br />
+<br />
+### My Codeforces Stats
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
