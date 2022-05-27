@@ -3,7 +3,8 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-I'm a third year UG student at **IIT Kharagpur**, interested in full stack development, open source contribution and competitive programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a third year UG student at Indian Institute of Technology Kharagpur.<br />
+I'm interested in full stack development, open source contribution and competitive programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
 🔭 I’m currently working on [Realtime Chat App using Socket.IO](https://github.com/wweverma1/socketio-chat)
