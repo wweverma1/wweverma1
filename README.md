@@ -3,13 +3,15 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-I'm a fourth year undergraduate student at Indian Institute of Technology Kharagpur.<br />
+I'm a final year undergraduate student at Indian Institute of Technology Kharagpur.<br />
 I'm interested in full stack development, contributing to open source projects and competitive programming. 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
+<!--
 🔭 I’m currently working on [Realtime Chat App using Socket.IO](https://github.com/wweverma1/socketio-chat)
 <br />
+-->
 💬 Ask me about React, Flask, Express, Python, C++, C, PHP and SQL
 <br />
 📫 How to reach me: wweverma1@gmail.com
