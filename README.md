@@ -1,29 +1,16 @@
 <h1 align="center">
   Hi there, I'm <a href="https://wweverma1.github.io/" target="_blank">Aditya Verma</a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="50" />
 </h1>
 
-I'm a final year undergraduate student at Indian Institute of Technology Kharagpur.<br />
-I'm interested in full stack development, contributing to open source projects and competitive programming. 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a final year undergraduate student at Indian Institute of Technology Kharagpur.
+<br />
+Interested in full-stack Software Development, applications of Machine Learning and contributing to open source projects.
 <br />
 <br />
-<!--
-🔭 I’m currently working on [Realtime Chat App using Socket.IO](https://github.com/wweverma1/socketio-chat)
-<br />
--->
-💬 Ask me about React, Flask, Express, Python, C++, C, PHP and SQL
+💬 Ask me about Kotlin, React, Flask, Express, Python, C++, C, PHP and SQL
 <br />
 📫 How to reach me: wweverma1@gmail.com
 <br />
 ⚡ Fun fact: Ctrl C, Ctrl V, Ctrl Z saved more lives than Batman :smile:
 <br />
-<!--
-### My Codeforces Stats
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
-
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
-
-**wweverma1/wweverma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
