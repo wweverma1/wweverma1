@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="50" />
 </h1>
 
-I'm a recent graduate student at Indian Institute of Technology Kharagpur.
+I'm a recent graduate from Indian Institute of Technology Kharagpur.
 <br />
 Interested in full-stack Software Development, Android Development, Applications of AI/ ML and contributing to Open Source projects.
 <br />
