@@ -8,7 +8,7 @@ I'm a recent graduate from Indian Institute of Technology Kharagpur.
 Interested in full-stack Software Development, Android Development, Applications of AI/ ML and contributing to Open Source projects.
 <br />
 <br />
-💬 Ask me about Kotlin, Flask, Golang, Express, Python, ReactJs, C++, C, PHP, SQL, Automated Testing and CI/ CD Pipelines
+💬 Ask me about Kotlin, Flask, Golang, Express, Python, ReactJs, C++, Java, PHP, SQL, Automated Testing and CI/ CD Pipelines
 <br />
 📫 Reach out to me at: wweverma1@gmail.com
 <br />
