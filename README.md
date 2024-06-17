@@ -5,7 +5,7 @@
 
 I'm a recent graduate student at Indian Institute of Technology Kharagpur.
 <br />
-Interested in full-stack Software Development, applications of AI/ ML and contributing to open source projects.
+Interested in full-stack Software Development, Android Development, Applications of AI/ ML and contributing to Open Source projects.
 <br />
 <br />
 💬 Ask me about Kotlin, Flask, Golang, Express, Python, ReactJs, C++, C, PHP, SQL, Automated Testing and CI/ CD Pipelines
